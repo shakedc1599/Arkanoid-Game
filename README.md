@@ -1,6 +1,6 @@
 # Arkanoid Game
 
-![Levels](https://raw.githubusercontent.com/GalYehezkel/Arkanoid-game/master/images/levels.png)
+![levels](https://user-images.githubusercontent.com/47411973/165031883-a225c306-986f-45ab-b708-71b5fc4d99d7.png)
 
 
 1. [About](#About)
